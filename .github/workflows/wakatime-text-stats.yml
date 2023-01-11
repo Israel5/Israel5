@@ -1,0 +1,16 @@
+name: Generate WakaTime Text Stats
+
+on:
+  workflow_dispatch:
+  # run automatically every 30 minutes
+  schedule:
+    - cron: "*/30 * * * *" 
+
+jobs:
+  update-readme:
+    name: Update this repo's README
+    runs-on: ubuntu-latest
+    steps:
+      - uses: athul/waka-readme@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
