@@ -5,6 +5,9 @@ on:
     - cron: "*/30 * * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,5 +23,5 @@ jobs:
           git config user.name israel5
           git config user.email ipereira.eu@gmail.com
           git add -A .
-          git commit -m "refactor: update profile-3d-contrib"
+          git commit -m "refactor: update profile-3d-contrib" || echo "No changes"
           git push
