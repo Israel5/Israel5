@@ -63,9 +63,9 @@ I speak <abbr title="English">🇬🇧</abbr> <abbr title="Portuguese">🇧🇷<
     </p>
     <p align="center">
         <picture>
-            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.cyclic.app/graph/?username=Israel5&bg_color=1F222E&color=F8D866&line=F85D7F&point=A2FF0B&hide_border=true">
-            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.cyclic.app/graph/?username=Israel5&bg_color=FFFFFF&color=7957D5&line=F8D866&point=FF3860&hide_border=true">
-            <img alt="Contribution Graph." src="https://github-readme-activity-graph.cyclic.app/graph/?username=Israel5&bg_color=FFFFFF&color=7957D5&line=F8D866&point=FF3860&hide_border=true">
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=Israel5&bg_color=1F222E&color=F8D866&line=F85D7F&point=A2FF0B&hide_border=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=Israel5&bg_color=FFFFFF&color=7957D5&line=F8D866&point=FF3860&hide_border=true">
+            <img alt="Contribution Graph." src="https://github-readme-activity-graph.vercel.app/graph/?username=Israel5&bg_color=FFFFFF&color=7957D5&line=F8D866&point=FF3860&hide_border=true">
         </picture>
     </p>
     <p align="center">
