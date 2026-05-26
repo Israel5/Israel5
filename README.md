@@ -103,11 +103,11 @@ I speak <abbr title="English">🇬🇧</abbr> <abbr title="Portuguese">🇧🇷<
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              3 hrs 36 mins         ██████░░░░░░░░░░░░░░░░░░░   23.77 %
-Python           2 hrs 43 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
-Other            2 hrs 8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-Bash             1 hr 47 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.84 %
-Markdown         1 hr 13 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
+PHP              3 hrs 58 mins         ██████░░░░░░░░░░░░░░░░░░░   24.41 %
+Blade Template   2 hrs 52 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
+Python           2 hrs 43 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.76 %
+Bash             1 hr 47 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+Markdown         1 hr 13 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
 ```
 
 <!--END_SECTION:waka-->
