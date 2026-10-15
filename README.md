@@ -103,11 +103,11 @@ I speak <abbr title="English">🇬🇧</abbr> <abbr title="Portuguese">🇧🇷<
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              52 mins               ████████████░░░░░░░░░░░░░   48.26 %
-Markdown         46 mins               ███████████░░░░░░░░░░░░░░   43.57 %
-Blade Template   7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
-JSON             0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-.env file        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+PHP              52 mins               █████████████░░░░░░░░░░░░   51.63 %
+Markdown         46 mins               ███████████▓░░░░░░░░░░░░░   46.61 %
+JSON             0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Blade Template   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 %
+.env file        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 %
 ```
 
 <!--END_SECTION:waka-->
